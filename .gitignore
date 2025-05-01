@@ -1,6 +1,8 @@
 #!/bin/bash
 
 # This is a gitignore file
-DS_Store
+.DS_Store
+~$*.docx
+
 
 
